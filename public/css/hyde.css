@@ -261,7 +261,7 @@ a:focus {
   color: rgba(255,255,255,.5);
 }
 .colophon-links {
-  padding-left: 0;
+  padding: 0px;
   list-style: none;
 }
 .colophon-links li {
