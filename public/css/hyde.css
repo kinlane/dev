@@ -244,8 +244,7 @@ a:focus {
 .masthead h2 {
   margin-top: 0;
   font-family: "Abril Fatface";
-  font-size: 100%;
-  font-weight: 500px;
+  font-size: 24px;
 }
 .masthead .lead {
   margin-bottom: 0;
