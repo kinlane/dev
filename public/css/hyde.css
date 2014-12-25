@@ -255,7 +255,7 @@ a:focus {
 /* Footer area of masthead */
 .colophon {
   margin-top: 5px;
-  margin-bottom: 5px;
+  margin-bottom: 10px;
   color: rgba(255,255,255,.5);
 }
 .colophon-links {
