@@ -246,8 +246,10 @@ a:focus {
 .masthead h2 {
   margin-top: 0px;
   padding-top: 0px;
+  top: -10px;
   font-family: "Courier New";
   font-size: 24px;
+  position:absolute;
 }
 .masthead .lead {
   margin-bottom: 0px;
