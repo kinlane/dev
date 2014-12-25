@@ -27,6 +27,26 @@
           </ul>
         </div>
         
+        <script type="text/javascript">
+        function listSponsors()
+            {
+            $.getJSON('/dev/data/sponsors.json', function(data) {               
+                $.each(data['sponsors'], function(key, val) {                  
+                var template = $('#parterListingTemplate').html();
+                var html = Mustache.to_html(template, val);
+                $('#partnerListingContainer').append(html);
+                });         
+            });             
+        }    
+        </script>
+           
+        <h3>Partner Sites</h3>
+        <div id="partnerListingContainer" align="center"><br /><br /> </div>
+        
+        <script type="text/javascript">
+            listSponsors();
+        </script>        
+        
       </div>
     </header>
 
