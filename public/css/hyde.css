@@ -541,3 +541,15 @@ a:focus {
 	font-size: 14px;
 	text-decoration: underline;
 }
+
+.sharebuttons{
+	text-align: center;
+	display: inline;
+	
+}
+.sharebuttons li{
+	text-align: center;
+	padding: 5px;
+	list-style: none;
+	display: inline;
+}
