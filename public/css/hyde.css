@@ -543,12 +543,11 @@ a:focus {
 }
 
 .sharebuttons{
-	text-align: center;
-	display: inline;
-	
+	text-align: center;	
 }
 .sharebuttons li{
 	text-align: center;
 	padding: 5px;
 	list-style: none;
+	display: inline;
 }
