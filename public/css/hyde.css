@@ -524,7 +524,7 @@ a:focus {
 	list-style: none;
 	display: inline;
 	color: #000;
-	padding: 10px;
+	padding-right: 10px;
 }
 
 .footer ul li a{
