@@ -306,13 +306,13 @@ a:focus {
  */
 
 .content {
-  padding: 10px 10px;
+  padding: 20px 20px;
 }
 
 /* Center container in available real estate */
 @media (min-width: 990px) {
   .content {
-    padding: 30px 0;
+    padding: 40px 0;
   }
   .container {
     width: 55%;
