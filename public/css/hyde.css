@@ -227,10 +227,12 @@ a:focus {
 .masthead {
   color: #fff;
   background-color: #000;
-  margin-top: 2px;
+  padding: 0px;
+  margin: 0px;
 }
 .masthead-inner {
   padding: 0px;
+  margin: 0px;
   height: 100%;
   border: 1px solid #FFF;
 }
