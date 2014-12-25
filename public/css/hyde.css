@@ -89,7 +89,7 @@ h4, h5, h6 {
 }
 
 p {
-  margin: 0 0 5px;
+  margin: 0 0 15px;
 }
 
 ul, ol {
@@ -177,7 +177,6 @@ blockquote p:after {
 
 img {
   display: block;
-  margin: 0px;
   border-radius: 5px;
 }
 
