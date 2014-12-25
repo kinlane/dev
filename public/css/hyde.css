@@ -244,7 +244,7 @@ a:focus {
 .masthead h2 {
   margin-top: 0;
   font-family: "Abril Fatface";
-  font-size: 32px;
+  font-size: 75%;
 }
 .masthead .lead {
   margin-bottom: 0;
@@ -262,7 +262,8 @@ a:focus {
 .colophon-links {
   margin: 0px;
   padding: 0px;
-  list-style: none;;
+  list-style: none;
+  size: 25%;
 }
 .colophon-links li {
   color: inherit;
@@ -524,8 +525,9 @@ a:focus {
 }
 
 .footer ul li a{
+	display: inline;
 	color: #000;
 	font-weight: bold;
 	font-size: 12px;
-	text-decordation: underline;
+	text-decoration: underline;
 }
