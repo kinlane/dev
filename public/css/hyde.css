@@ -258,13 +258,11 @@ a:focus {
   margin: 0px;
   padding: 0px;
   color: rgba(255,255,255,.5);
-  border: 1px solid #FFF;
 }
 .colophon-links {
   margin: 0px;
   padding: 0px;
-  list-style: none;
-  border: 1px solid #FFF;
+  list-style: none;;
 }
 .colophon-links li {
   color: inherit;
