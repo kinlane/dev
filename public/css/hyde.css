@@ -514,6 +514,7 @@ a:focus {
 	border: 1px solid #000;
 	height: 50px;
 	width: 100%;
+	text-align: center;
 }
 
 .footer ul{
@@ -525,6 +526,7 @@ a:focus {
 	list-style: none;
 	display: inline;
 	color: #000;
+	padding: 10px;
 }
 
 .footer ul li a{
