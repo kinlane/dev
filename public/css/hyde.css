@@ -266,6 +266,7 @@ a:focus {
 .colophon-links {
   padding: 0px;
   list-style: none;
+  border: 1px solid #FFF;
 }
 .colophon-links li {
   color: inherit;
