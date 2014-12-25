@@ -508,3 +508,16 @@ a:focus {
 .theme-base-0f .related-posts li a:hover {
   color: #8f5536;
 }
+
+.footer{
+	border: 1px solid #000;
+}
+
+.footer ul{
+	border: 1px solid #000;
+	display: inline;
+}
+
+.footer ul li{
+	
+}
