@@ -528,8 +528,15 @@ a:focus {
 }
 
 .footer ul li a{
+	color: #CCC;
+	font-weight: bold;
+	font-size: 14px;
+	text-decoration: underline;
+}
+
+.footer ul li a:hover{
 	color: #000;
 	font-weight: bold;
-	font-size: 12px;
+	font-size: 14px;
 	text-decoration: underline;
 }
