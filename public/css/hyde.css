@@ -235,6 +235,7 @@ a:focus {
   margin: 0px;
   height: 100%;
   border: 1px solid #FFF;
+  vertical-align: top;
 }
 
 /* Masthead content */
