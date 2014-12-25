@@ -513,6 +513,7 @@ a:focus {
 .footer{
 	border: 1px solid #000;
 	height: 50px;
+	width: 100%;
 }
 
 .footer ul{
