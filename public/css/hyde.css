@@ -73,15 +73,15 @@ h1, h2, h3, h4, h5, h6 {
   text-rendering: optimizeLegibility;
 }
 h1 {
-  font-size: 40px;
+  font-size: 30px;
 }
 h2 {
   margin-top: 20px;
-  font-size: 32px;
+  font-size: 22px;
 }
 h3 {
   margin-top: 24px;
-  font-size: 24px;
+  font-size: 20px;
 }
 h4, h5, h6 {
   margin-top: 16px;
