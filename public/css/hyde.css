@@ -189,8 +189,10 @@ a:focus {
 .masthead-inner {
   padding: 0px;
   margin: 0px;
+  padding-top: 0px;
+  margin-top: 0px;
   height: 100%;
-  border: 1px solid #FFF;
+  border: 2px solid #FFF;
   vertical-align: top;
 }
 
