@@ -522,10 +522,11 @@ a:focus {
 
 .footer ul li{
 	list-style: none;
+	display: inline;
+	color: #000;
 }
 
 .footer ul li a{
-	display: inline;
 	color: #000;
 	font-weight: bold;
 	font-size: 12px;
