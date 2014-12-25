@@ -511,6 +511,7 @@ a:focus {
 
 .footer{
 	border: 1px solid #000;
+	height: 50px;
 }
 
 .footer ul{
@@ -519,5 +520,5 @@ a:focus {
 }
 
 .footer ul li{
-	
+	list-style: none;
 }
